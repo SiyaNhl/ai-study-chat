@@ -1,5 +1,8 @@
 # AI Study Chat 🤖
 
+## 🌍 Live Demo
+https://ai-study-chat-ijupxjczrm8vxdtbbnw6th.streamlit.app
+
 AI Study Chat is a simple AI-style study assistant built with Python and Streamlit.
 
 ## Features
