@@ -27,3 +27,10 @@ AI Study Chat is a simple AI-style study assistant built with Python and Streaml
 ```bash
 pip install -r requirements.txt
 streamlit run app.py
+
+
+## 🚀 Future Improvements
+- Integrate real AI API
+- Add user authentication
+- Improve natural conversation handling
+- Enhance UI with animations
